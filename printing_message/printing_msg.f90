@@ -12,7 +12,7 @@ program PrintString
 		x = 1
 	endif
 	do while (x <= n)
-		print*, "Hello, how is " // a // "?"
+		print*, x,"Hello, how is ",a,"?"
 		x = x + 1
 	end do
 end program PrintString

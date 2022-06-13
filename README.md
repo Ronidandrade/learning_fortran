@@ -13,3 +13,7 @@ gfortan <file.f90> -o <new output fille name>
 ~~~shell
 ./<output file name>
 ~~~
+
+## The **compile.sh** file:
+
+> Deve ser inserido na pasta com os arquivos **.f90** e executado via terminal.
